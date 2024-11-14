@@ -48,7 +48,7 @@ int main()
 
     /*
     
-    Yung if else statement have a range of 3 o kaya pwede sya maging maramihan. 
+    Yung if else or if else chain statement have a range of 3 o kaya pwede sya maging maramihan. 
     if else, else if, then (?) 3 pataas pwede ka gumawa ng if else statement 3 pataas
 
     */
