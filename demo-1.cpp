@@ -46,6 +46,12 @@ int main()
     // 5. Display and use variable in cout
     std::cout << "Hi! " << name << " your age is " << age << std::endl;
 
+    /*
+    
+    Yung if else statement have a range of 3 o kaya pwede sya maging maramihan. 
+    if else, else if, then (?) 3 pataas pwede ka gumawa ng if else statement 3 pataas
+
+    */
     // 6. Response if either they can go to school or not
     // Demo of If else
     if (3 <= age)
@@ -97,6 +103,15 @@ int main()
         ;
     std::cin >> letterChoice;
 
+    /*
+* 
+    
+    Swtich ay kailangan specific lang lagay mo kunyare yung choices 1 2 3 dapat 1 2 3 lang 
+    yung lalabas pag wala sa choices yung mga nilagay mo then di nya ma rerecognize yung
+    ininput mo
+
+
+    */
     // 7. Will base on letterChoice the comparison of constant cases in char
     switch (letterChoice)
     {
